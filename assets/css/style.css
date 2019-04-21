@@ -1,0 +1,29 @@
+.contentBlock {
+    max-width: 960px;
+    margin-right: auto;
+    margin-left:auto;
+    background-color: white;
+}
+.name {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 250px;
+    float: left;
+}
+.navBar {
+    float: right;
+}
+.information {
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    float: left;
+}
+.titles {
+    color: #4aaaa5;
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#myImage {
+    float: left;
+}
